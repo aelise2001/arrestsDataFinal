@@ -43,7 +43,7 @@ margin: 0 auto;
 p { 
     /* font-family: 'Arial', sans-serif; */
     text-align: center; 
-    font-size: 1em; 
+    font-size: 1.2em; 
     margin: 30px;
     padding-left: 25px;
 }
@@ -55,13 +55,13 @@ p {
   padding-bottom: 20px;
 }
 
-
+/* 
 .column2 {
   float: left;
   width: 50%;
   padding-top: 10px;
   padding-bottom: 20px;
-}
+} */
 
 
 h1,h4,h3{
