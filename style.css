@@ -125,6 +125,7 @@ padding: 10px;
     .column {
       float: left;
       width: 50%;
+      font-size: 1.2em;
     
     }
     /* .column2 {
